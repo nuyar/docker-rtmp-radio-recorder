@@ -3,7 +3,7 @@
 rtmp 프로토콜로 전송되는 라디오를 mp3 형식으로 저장합니다.
 
 ## Docker Hub
-https://hub.docker.com/repository/docker/nuyar/radio-recorder
+https://hub.docker.com/r/nuyar/radio-recorder
 
 
 ## Deploy
